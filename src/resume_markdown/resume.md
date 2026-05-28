@@ -1,60 +1,87 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Richard Hendricks
+# Anthony Gordy
 
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
-- (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
-- San Francisco, CA
+**Professional** | Griffin, GA
+[anthony@gordy.email](mailto:anthony@gordy.email) | +1 4702613645
+[gordy.info](https://gordy.info)
 
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
-CEO and Software Engineer with knowledge of applied information theory,
-including optimizing lossless compression schema of both the length-limited and
-adaptive variants.
+---
+
+## Professional Summary
+Results-driven professional with hands-on experience in IT transformation. Expertise in delivering high-impact, data-driven strategic decision-making solutions. Recognized for leadership and problem-solving skills with a well-developed, efficient methodology.
+
+---
+
+## Education
+**Trinity Christian** | High School Diploma
+*Griffin, GA* | Expected 2026-05
+- Graduated with honors
+- Valedictorian for British Literature
+- Awarded University of Rochester Xerox Award for Innovation and Information Technology
+
+---
 
 ## Experience
 
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
+### Computer Repair Technician (Freelance)
+*Self-Employed* | Griffin, GA | Sep 2023 – Present
+- Independently diagnose, repair, and upgrade computers, laptops, and peripherals for clients.
+- Perform board-level repairs, hardware modifications, and system optimizations.
+- Repaired and upgraded dozens of systems, including desktops, laptops, and servers.
+- Diagnosed and resolved hardware/software issues with a very high success rate.
+- Performed board-level repairs on motherboards and other components.
+- Soldered components and repaired damaged circuits on various devices.
 
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
+### Community Volunteer
+*Griffin, GA* | May 2024 – Present
+- Dedicated 50+ hours fostering community growth through hands-on service.
+- Empowered underserved communities and drove impactful change through dedicated philanthropic initiatives.
+- Strategically curated creative assets and streamlined artistic resources for optimized workflow.
+- Delivered high-quality results with unwavering dependability.
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
+### System Administrator (Freelance)
+*Self-Employed* | Griffin, GA | May 2025 – Present
+- Built and maintained a self-hosted web infrastructure for personal and community use.
+- Deployed services like Nextcloud, a static website, and more with 99% uptime.
+- Resolved dozens of user-reported issues with a response time of under 6 hours.
+- Designed a scalable architecture using Docker, Apache, and Let’s Encrypt for SSL.
+- Received consistent praise for server performance from hundreds of users.
+- Implemented security best practices such as fail2ban, update, and firewall policies.
 
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
+---
 
-Global movement of free coding clubs for young people.
+## Qualifications
 
- - Awarded 'Teacher of the Month'
+### Certifications
+- CompTIA A+, CompTIA Network+, CompTIA Linux+
 
-## Projects
+### Abilities
+- CPR, Stop the Bleed, AED trained
 
-### <span>Miss Direction</span> <span>Aug 2016</span>
+### Traits
+- Conventional, Realistic, Investigative, Adaptability, Time Management, Critical Thinking/Problem Solving, Digital Literacy
 
-A mapping engine that misguides you:
+### Technical Skills
+- Computer Repair, Hardware & Software Troubleshooting, Hardware Upgrades, HTML, Soldering, Board-Level Repairs, PC Building, System Optimization, Linux, Fedora, Apache, Docker, Podman, SystemD
 
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
+---
 
-## Education
+## Armed Services Vocational Aptitude Battery (ASVAB)
+- **Mechanical Comprehension**: 95th Percentile
+- **Electronics Information**: 91st Percentile
 
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
+---
 
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
+## Hobbies
+**Fitness** | Sep 2025 – Present
+- Running, Cycling, Gym
+- Developed Discipline, Consistency, Resilience, Perseverance, Goal Setting and Achievement
 
-## Skills
+---
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+## Future Goals
+**Serve in the U.S. Air Force** | Target: 2028-04
+- Join as an RF Technician, IT Specialist, or Aircraft Mechanic.
+- Leverage skills in computer repair, networking, and hardware troubleshooting.
+- Pursue advanced training in RF communications, cybersecurity, or mechanical systems.
+- Serve my country while growing professionally in a mission-driven environment.
